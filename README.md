@@ -16,7 +16,7 @@ Based in https://github.com/rwieruch/node-express-postgresql-server
   - /users/1
 
 
-## CUrl
+## Samples CURL
 
 - Create a message with:
   - `curl -X POST -H "Content-Type:application/json" http://localhost:3000/messages -d '{"text":"Hi again, World"}'`
