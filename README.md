@@ -1,6 +1,5 @@
-# Dummy Backend (Javascript)
+# Backend (Javascript)
 
-Based in https://github.com/rwieruch/node-express-postgresql-server
 
 ## Run local environment
 
